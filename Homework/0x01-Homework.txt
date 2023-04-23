@@ -1,0 +1,41 @@
+Homework(1): Date & Time 
+-----Date
+- What are the possible data members?
+- What are the possible methods?
+
+-----Time
+- Describe 2 different ways to be potential member variables?
+
+
+Answer(1): Date & Time
+-----Date
+- possible data members are:
+	Three variables as numbers:
+		* Years - integer
+		* Months - integer
+		* Days - integer
+	Three variables as string:
+		* Years - string 
+		* Months - string 
+		* Days - string 
+	Three variables as string (abbreviations):
+		* Years - string 
+		* Months - string 
+		* Days - string 
+
+- Possible methods are:
+	* Method that set the date
+	* Method that print the date in a specific format
+
+
+-----Time
+- 2 different ways are:
+	first:
+		* hour: H
+		* Minutes: m
+		* Seconds: s
+	second:
+		* hour: Hr
+		* Minutes: mn
+		* Seconds: sec
+		

@@ -1,0 +1,8 @@
+Homework(2): Desing Review
+
+- I don't think so that these data members (attributes) are all useful for a bank, like for what the bank will use the preferences of the person (favourite*)
+- For datatypes I think that in the preferences variables it's good to use arrays because so many have a lot of preferences so the may have more than one preferences.
+
+- You can add:
+	* string cellPhone;
+	* string (some legal info);

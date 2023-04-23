@@ -1,0 +1,25 @@
+HomeWork(3): Shapes
+
+- common  things between the shapes:
+	* color
+	* area
+	* peremiter
+	* name
+	* width
+	* height
+
+- Data members:
+	* color
+	* area
+	* peremiter
+	* name
+	* width
+	* height
+
+- Methods:
+	* // constructor (determine the shape)
+	* (each shape will have it's proper Method)
+	* color Method 
+	* resize method 
+
+
